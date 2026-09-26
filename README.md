@@ -47,3 +47,19 @@ The dashboard can be used to identify:
 - Overall sales and order performance
 
 Dashboard interaction - https://github.com/mahakdhyani/Coffee-Shop-Sales-Dashboard/blob/main/Screenshot%202026-09-26%20204127.png
+
+## 🎛️ Interactive Filters
+
+The dashboard includes interactive filters/slicers for:
+
+- Weekdays
+- Month
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- **Data Visualization
+- Data Cleaning & Transformation
+- Business Intelligence
