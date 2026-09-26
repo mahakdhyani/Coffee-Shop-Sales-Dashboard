@@ -60,6 +60,6 @@ The dashboard includes interactive filters/slicers for:
 - Microsoft Power BI
 - Power Query
 - DAX
-- **Data Visualization
+- Data Visualization
 - Data Cleaning & Transformation
 - Business Intelligence
