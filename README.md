@@ -63,3 +63,11 @@ The dashboard includes interactive filters/slicers for:
 - Data Visualization
 - Data Cleaning & Transformation
 - Business Intelligence
+
+## Dashboard
+  <img width="670" height="371" alt="Screenshot 2026-09-26 204127" src="https://github.com/user-attachments/assets/0aead358-dfa3-4c15-9800-c6fb8a870ee6" />
+
+
+##Final Conclusion
+
+The Coffee Shop Sales Dashboard provides a clear view of sales, orders, customer behavior, and product performance. Using Power BI, Power Query, and DAX, the dashboard converts raw data into meaningful insights and supports data-driven business decisions.
