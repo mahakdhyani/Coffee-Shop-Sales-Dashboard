@@ -45,3 +45,5 @@ The dashboard can be used to identify:
 - Differences in performance between store locations
 - Day-wise changes in transaction volume
 - Overall sales and order performance
+
+Dashboard interaction - https://github.com/mahakdhyani/Coffee-Shop-Sales-Dashboard/blob/main/Screenshot%202026-09-26%20204127.png
